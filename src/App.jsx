@@ -3,7 +3,7 @@ import 'animate.css';
 import axios from 'axios';
 import { ToastContainer, toast } from 'react-toastify';
 import 'remixicon/fonts/remixicon.css'
-const API_KEY =  "your_api_key"
+const API_KEY = " OWyW7ivDbH5Ss3MSCAUIG6oslATxXTpxL1tF5jir6bfsSJ7ElQxXBgTI"
 
 const App = () => {
   const [photos, setPhotos] = useState([])
