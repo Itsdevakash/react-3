@@ -47,7 +47,6 @@ const App = () => {
   }
 
   useEffect(()=>{
-    alert("Please use your own api key")
     fetchImage()
   }, [page, query])
   
